@@ -1,0 +1,65 @@
+body {
+	background-color: #2F4F4F;
+}
+
+.content img {
+	border-radius: 50%;
+	float: left;
+}
+
+.cari, h1 {
+	text-align: center;
+	color: white;
+}
+
+.content a {
+	color: blue;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.content a:hover{
+	color: white;
+}
+
+.content {
+	width: 320px;
+	height: 100px;
+	background-color: white;
+	margin: auto;
+	padding: 20px;
+	position: relative;
+	left: -30px;
+	top: -6px;
+	text-align: center;
+	border : 20px solid #008B8B;
+	box-shadow: -15px 0px 10px -15px;
+	position: relative;
+}
+
+.nama a{
+	font-size : 20px;
+}
+
+.nama a:hover {
+	color: red;
+}
+
+.c {
+	color: black;
+	font-weight: bold;
+}
+
+.log a {
+	background-color: #8FBC8F;
+	margin-left: 1270px;
+	padding: 6px;
+	border-radius: 20%;
+	text-decoration: none;
+	color: white;
+}
+
+.log a:hover {
+	background-color: #F8F8FF;
+	color: black;
+}

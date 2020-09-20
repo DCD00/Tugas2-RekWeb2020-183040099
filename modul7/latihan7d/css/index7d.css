@@ -1,0 +1,45 @@
+h1 {
+	text-align: center;
+}
+
+.jud {
+	background-color: orange;
+}
+
+.ubah {
+	border-radius: 15%;
+	height: 20px;
+	width: 30px;
+	padding: 5px;
+	background-color: green;
+	color: black;
+	text-decoration: none;
+}
+
+.ubah:hover, .hapus:hover, .tambah a:hover {
+	background-color: black;
+}
+
+.hapus {
+	border-radius: 15%;
+	height: 20px;
+	width: 37px;
+	padding: 5px;
+	background-color: red;
+	color: black;
+	text-decoration: none;
+}
+
+.hapus span:hover, .ubah span:hover {
+	color: white;
+}
+
+.tambah a{
+	border-radius: 20%;
+	height: 20px;
+	width: 50px;
+	padding: 5px;
+	background-color: darkblue;
+	color: white;
+	text-decoration: none;
+}

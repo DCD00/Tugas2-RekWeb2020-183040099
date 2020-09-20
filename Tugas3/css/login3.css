@@ -1,0 +1,32 @@
+body{
+	background: linear-gradient(to right, #D3D3D3 , #696969, #D3D3D3);
+}
+
+.content img{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%
+}
+
+.content{
+	border: 1px solid white;
+	width: 300px;
+	height: 350px;
+	background-color: rgb(0,0,0,.75);
+	color: white;
+	margin: 20px auto;
+	box-shadow: 5px 5px 5px rgba(0,0,0,.75);
+}
+
+.content h1 {
+	font-family: "times new roman", times, serif;
+}
+
+.catatan{
+	border: 5px solid black;
+	color: white;
+	width: 350px;
+	height: 70px;
+	margin : auto;
+	padding: 10px;
+}
